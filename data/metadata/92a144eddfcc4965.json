@@ -1,0 +1,62 @@
+{
+    "agent": {
+        "arrival_time_ms": 1584312309217,
+        "hangup_time_ms": 1584312368351,
+        "metadata": {
+            "agent_name": "Linda"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1584312346101,
+                "data": {
+                    "phone": "7406074818",
+                    "task_type": "reset password"
+                }
+            }
+        ],
+        "speaker_id": 44,
+        "survey_response": {
+            "submit_time_ms": 1584312367057,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "caller": {
+        "arrival_time_ms": 1584312300939,
+        "hangup_time_ms": 1584312370260,
+        "metadata": {
+            "first and last name": "John Wilson"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1584312358986
+            }
+        ],
+        "speaker_id": 54,
+        "survey_response": {
+            "submit_time_ms": 1584312374651,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "end_time_ms": 1584312368241,
+    "sid": "92a144eddfcc4965",
+    "start_time_ms": 1584312315213,
+    "labels": {
+        "lhvb_script": 5.0,
+        "caller_mos": 3.0,
+        "agent_mos": 4.0
+    },
+    "session": "Little Harper Valley 1",
+    "tasks": [
+        {
+            "phone": "740-607-4818",
+            "password dest": "phone",
+            "task_type": "reset password"
+        }
+    ]
+}

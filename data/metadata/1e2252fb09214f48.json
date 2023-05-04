@@ -1,0 +1,83 @@
+{
+    "agent": {
+        "arrival_time_ms": 1590864509501,
+        "hangup_time_ms": 1590864597419,
+        "metadata": {
+            "agent_name": "Patricia"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1590864548410,
+                "data": {
+                    "transfer destination account": "savings",
+                    "transfer amount": "121.00",
+                    "transfer source account": "checking",
+                    "task_type": "transfer money"
+                }
+            },
+            {
+                "submit_time_ms": 1590864550233,
+                "data": {
+                    "transfer destination account": "savings",
+                    "transfer amount": "121.00",
+                    "transfer source account": "checking",
+                    "task_type": "transfer money"
+                }
+            },
+            {
+                "submit_time_ms": 1590864577542,
+                "data": {
+                    "transfer destination account": "savings",
+                    "transfer amount": "121",
+                    "transfer source account": "checking",
+                    "task_type": "transfer money"
+                }
+            }
+        ],
+        "speaker_id": 56,
+        "survey_response": {
+            "submit_time_ms": 1590864595477,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "caller": {
+        "arrival_time_ms": 1590864506877,
+        "hangup_time_ms": 1590864594945,
+        "metadata": {
+            "first and last name": "Patricia Miller"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1590864582173
+            }
+        ],
+        "speaker_id": 55,
+        "survey_response": {
+            "submit_time_ms": 1590864599116,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "end_time_ms": 1590864594847,
+    "sid": "1e2252fb09214f48",
+    "start_time_ms": 1590864515375,
+    "labels": {
+        "lhvb_script": 5.0,
+        "caller_mos": 3.0,
+        "agent_mos": 3.0
+    },
+    "session": "Little Harper Valley 2",
+    "tasks": [
+        {
+            "transfer destination account": "savings",
+            "transfer amount": 121,
+            "transfer source account": "checking",
+            "task_type": "transfer money"
+        }
+    ]
+}

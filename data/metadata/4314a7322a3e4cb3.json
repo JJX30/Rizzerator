@@ -1,0 +1,60 @@
+{
+    "agent": {
+        "arrival_time_ms": 1591056960867,
+        "hangup_time_ms": 1591057036418,
+        "metadata": {
+            "agent_name": "Robert"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1591057016702,
+                "data": {
+                    "time": "1030am",
+                    "day": "Monday",
+                    "task_type": "schedule appointment"
+                }
+            }
+        ],
+        "speaker_id": 38,
+        "survey_response": {
+            "submit_time_ms": 1591057033540,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "caller": {
+        "arrival_time_ms": 1591056957932,
+        "hangup_time_ms": 1591057034426,
+        "metadata": {
+            "first and last name": "James Williams"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1591057018308
+            }
+        ],
+        "speaker_id": 6,
+        "survey_response": {
+            "submit_time_ms": 1591057032495,
+            "data": {}
+        }
+    },
+    "end_time_ms": 1591057034288,
+    "sid": "4314a7322a3e4cb3",
+    "start_time_ms": 1591056966751,
+    "labels": {
+        "lhvb_script": 5.0,
+        "caller_mos": 5.0,
+        "agent_mos": 5.0
+    },
+    "session": "Little Harper Valley 3",
+    "tasks": [
+        {
+            "time": "10:30 AM",
+            "day": "Monday",
+            "task_type": "schedule appointment"
+        }
+    ]
+}

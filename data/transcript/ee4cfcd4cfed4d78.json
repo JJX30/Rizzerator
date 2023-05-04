@@ -1,0 +1,312 @@
+[
+    {
+        "channel_index": 2,
+        "dialog_acts": [
+            "gridspace_greeting"
+        ],
+        "duration_ms": 4500,
+        "emotion": {
+            "neutral": 0.28927114605903625,
+            "negative": 0.011954360641539097,
+            "positive": 0.698774516582489
+        },
+        "human_transcript": "[noise] hello this is harper valley national bank my name is jennifer how can i help you today",
+        "index": 1,
+        "offset_ms": 3290,
+        "speaker_role": "agent",
+        "start_ms": 1260,
+        "start_timestamp_ms": 1590859901067,
+        "transcript": "[noise] hello this is harper valley national bank my name is jennifer how can i help you today",
+        "word_durations_ms": [
+            30,
+            330,
+            180,
+            120,
+            270,
+            300,
+            480,
+            300,
+            150,
+            180,
+            150,
+            570,
+            150,
+            150,
+            90,
+            210,
+            120,
+            360
+        ],
+        "word_offsets_ms": [
+            0,
+            360,
+            690,
+            870,
+            990,
+            1260,
+            1560,
+            2040,
+            2340,
+            2490,
+            2670,
+            2820,
+            3420,
+            3570,
+            3720,
+            3810,
+            4020,
+            4140
+        ]
+    },
+    {
+        "channel_index": 1,
+        "dialog_acts": [
+            "gridspace_response",
+            "gridspace_problem_description"
+        ],
+        "duration_ms": 4770,
+        "emotion": {
+            "neutral": 0.322984516620636,
+            "negative": 0.08161216229200363,
+            "positive": 0.5954033136367798
+        },
+        "human_transcript": "[noise] hi my name is john williams i lost my debit card can you send me a new one",
+        "index": 2,
+        "offset_ms": 8360,
+        "speaker_role": "caller",
+        "start_ms": 8360,
+        "start_timestamp_ms": 1590859906137,
+        "transcript": "[noise] hi my name is john williams i lost my debit card can you send me a new one",
+        "word_durations_ms": [
+            60,
+            330,
+            180,
+            180,
+            120,
+            360,
+            630,
+            180,
+            300,
+            150,
+            300,
+            360,
+            180,
+            120,
+            210,
+            90,
+            60,
+            150,
+            210
+        ],
+        "word_offsets_ms": [
+            0,
+            540,
+            870,
+            1050,
+            1230,
+            1350,
+            1710,
+            2460,
+            2640,
+            2940,
+            3090,
+            3390,
+            3750,
+            3930,
+            4050,
+            4260,
+            4350,
+            4410,
+            4560
+        ]
+    },
+    {
+        "channel_index": 2,
+        "dialog_acts": [
+            "gridspace_other",
+            "gridspace_confirm_data"
+        ],
+        "duration_ms": 1710,
+        "emotion": {
+            "neutral": 0.46025076508522034,
+            "negative": 0.12051821500062943,
+            "positive": 0.4192310571670532
+        },
+        "human_transcript": "which card would you like to replace",
+        "index": 3,
+        "offset_ms": 15690,
+        "speaker_role": "agent",
+        "start_ms": 13660,
+        "start_timestamp_ms": 1590859913467,
+        "transcript": "which card would you like to replace",
+        "word_durations_ms": [
+            300,
+            300,
+            120,
+            120,
+            210,
+            90,
+            570
+        ],
+        "word_offsets_ms": [
+            0,
+            300,
+            600,
+            720,
+            840,
+            1050,
+            1140
+        ]
+    },
+    {
+        "channel_index": 1,
+        "dialog_acts": [
+            "gridspace_other",
+            "gridspace_problem_description"
+        ],
+        "duration_ms": 930,
+        "emotion": {
+            "neutral": 0.46489983797073364,
+            "negative": 0.408808171749115,
+            "positive": 0.1262919008731842
+        },
+        "human_transcript": "my debit card",
+        "index": 4,
+        "offset_ms": 18290,
+        "speaker_role": "caller",
+        "start_ms": 18290,
+        "start_timestamp_ms": 1590859916067,
+        "transcript": "my debit card",
+        "word_durations_ms": [
+            210,
+            330,
+            390
+        ],
+        "word_offsets_ms": [
+            0,
+            210,
+            540
+        ]
+    },
+    {
+        "channel_index": 2,
+        "dialog_acts": [
+            "gridspace_data_question",
+            "gridspace_open_question"
+        ],
+        "duration_ms": 3960,
+        "emotion": {
+            "neutral": 0.3165389895439148,
+            "negative": 0.038382336497306824,
+            "positive": 0.6450786590576172
+        },
+        "human_transcript": "i've ordered your replacement debit card is there anything else i can help you with",
+        "index": 5,
+        "offset_ms": 21520,
+        "speaker_role": "agent",
+        "start_ms": 19490,
+        "start_timestamp_ms": 1590859919297,
+        "transcript": "i've ordered your replacement debit card is there anything else i can help you with",
+        "word_durations_ms": [
+            240,
+            420,
+            210,
+            630,
+            270,
+            360,
+            180,
+            120,
+            390,
+            210,
+            90,
+            120,
+            180,
+            90,
+            300
+        ],
+        "word_offsets_ms": [
+            0,
+            240,
+            660,
+            870,
+            1500,
+            1770,
+            2250,
+            2460,
+            2580,
+            2970,
+            3180,
+            3270,
+            3390,
+            3570,
+            3660
+        ]
+    },
+    {
+        "channel_index": 1,
+        "dialog_acts": [
+            "gridspace_other"
+        ],
+        "duration_ms": 450,
+        "emotion": {
+            "neutral": 0.50396728515625,
+            "negative": 0.3297073245048523,
+            "positive": 0.1663254052400589
+        },
+        "human_transcript": "[noise] no",
+        "index": 6,
+        "offset_ms": 26290,
+        "speaker_role": "caller",
+        "start_ms": 26290,
+        "start_timestamp_ms": 1590859924067,
+        "transcript": "[noise] no",
+        "word_durations_ms": [
+            30,
+            390
+        ],
+        "word_offsets_ms": [
+            0,
+            60
+        ]
+    },
+    {
+        "channel_index": 2,
+        "dialog_acts": [
+            "gridspace_thanks",
+            "gridspace_closing"
+        ],
+        "duration_ms": 1800,
+        "emotion": {
+            "neutral": 0.3021641969680786,
+            "negative": 0.02485891617834568,
+            "positive": 0.6729769110679626
+        },
+        "human_transcript": "thank you for calling have a great day",
+        "index": 7,
+        "offset_ms": 28110,
+        "speaker_role": "agent",
+        "start_ms": 26080,
+        "start_timestamp_ms": 1590859925887,
+        "transcript": "thank you for calling have a great day",
+        "word_durations_ms": [
+            300,
+            90,
+            120,
+            390,
+            180,
+            60,
+            270,
+            300
+        ],
+        "word_offsets_ms": [
+            0,
+            300,
+            390,
+            510,
+            990,
+            1170,
+            1230,
+            1500
+        ]
+    }
+]

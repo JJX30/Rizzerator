@@ -1,0 +1,64 @@
+{
+    "agent": {
+        "arrival_time_ms": 1591058770942,
+        "hangup_time_ms": 1591058849642,
+        "metadata": {
+            "agent_name": "Patricia"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1591058830015,
+                "data": {
+                    "time": "10:15 am",
+                    "day": "Tuesday",
+                    "task_type": "schedule appointment"
+                }
+            }
+        ],
+        "speaker_id": 17,
+        "survey_response": {
+            "submit_time_ms": 1591058852743,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "caller": {
+        "arrival_time_ms": 1591058769827,
+        "hangup_time_ms": 1591058852131,
+        "metadata": {
+            "first and last name": "David Davis"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1591058852781
+            }
+        ],
+        "speaker_id": 58,
+        "survey_response": {
+            "submit_time_ms": 1591058864985,
+            "data": {
+                "additional_comments": "N/A",
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "end_time_ms": 1591058849517,
+    "sid": "9b35ddcb700e42db",
+    "start_time_ms": 1591058776906,
+    "labels": {
+        "lhvb_script": 5.0,
+        "caller_mos": 5.0,
+        "agent_mos": 5.0
+    },
+    "session": "Little Harper Valley 3",
+    "tasks": [
+        {
+            "time": "10:15 AM",
+            "day": "Tuesday",
+            "task_type": "schedule appointment"
+        }
+    ]
+}

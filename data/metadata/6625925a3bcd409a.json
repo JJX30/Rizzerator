@@ -1,0 +1,59 @@
+{
+    "agent": {
+        "arrival_time_ms": 1584310190477,
+        "hangup_time_ms": 1584310249919,
+        "metadata": {
+            "agent_name": "Michael"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1584310229696,
+                "data": {
+                    "phone": "9738901039",
+                    "task_type": "reset password"
+                }
+            }
+        ],
+        "speaker_id": 24,
+        "survey_response": {
+            "submit_time_ms": 1584310254692,
+            "data": {}
+        }
+    },
+    "caller": {
+        "arrival_time_ms": 1584310190041,
+        "hangup_time_ms": 1584310249069,
+        "metadata": {
+            "first and last name": "Jennifer Garcia"
+        },
+        "responses": [
+            {
+                "submit_time_ms": 1584310226586
+            }
+        ],
+        "speaker_id": 28,
+        "survey_response": {
+            "submit_time_ms": 1584310254059,
+            "data": {
+                "ease_of_connection": "10",
+                "partner_rating": "10"
+            }
+        }
+    },
+    "end_time_ms": 1584310248879,
+    "sid": "6625925a3bcd409a",
+    "start_time_ms": 1584310196451,
+    "labels": {
+        "lhvb_script": 5.0,
+        "caller_mos": 4.0,
+        "agent_mos": 4.0
+    },
+    "session": "Little Harper Valley 1",
+    "tasks": [
+        {
+            "phone": "973-890-1039",
+            "password dest": "phone",
+            "task_type": "reset password"
+        }
+    ]
+}
