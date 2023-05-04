@@ -18,7 +18,7 @@ To install and use the project, you must have the latest version of Python, Anac
   - Although having Anaconda is not necessary, it is reccommended to download in order to run our program on a seperate virtual environment. This is to allow easier access to download and delete python libraries without the hassle of directly downloading them to the base environment (aka the local device) and potentially take up space on the memory. To do this, open the Anaconda command line interface and type `conda activate rizzerator`. From here, you would run `jupyter notebook` and locate the directory containing the files. 
   - If Anaconda is not downloaded, run the program on any other IDE of your liking (we reccomend VS Code) :)
   - To install different Python libraries, you can run `pip install` followed by the library you choose to download or, if you downloaded Anaconda, you can run `conda install` followed by the library of your choosing. 
-    - Note: some Python libraries might not have `conda install`, so its still fine to run `pip install' while using Anaconda.
+  - Note: some Python libraries might not have `conda install`, so its still fine to run `pip install' while using Anaconda.
 
 
 ## Usage :computer:
